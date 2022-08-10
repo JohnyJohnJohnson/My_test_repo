@@ -8,6 +8,6 @@ test repositorie to learn some features of git and github
 
 
 
-$\mathcal{MY \space\space REPO}$
+$\mathcal{MY \space\space REPO} <3$
 
 $$\vec{\mathcal{X}} = \sum_{i=0}^n{M*\vec{y}}$$
